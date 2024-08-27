@@ -1,0 +1,53 @@
+.pag1{
+    background-image: url('forest.jpg');
+    width: auto;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+h1{
+    color: aliceblue;
+    filter: drop-shadow(1px 1px 20px green);
+text-align: center;
+font-size: 55px;
+
+}
+a{
+    padding: 45px;
+    color: aquamarine;
+    text-decoration: none;
+    font-size: 25px;
+
+ 
+}
+
+
+
+
+
+
+}
+.tabb{
+    border-radius: 15px;
+    border-collapse: collapse;
+    
+    h2{
+        font-size: 25px;
+     
+        color: aliceblue;
+    }
+    h3{
+        font-size: 25px;
+      
+        color: aliceblue;
+    }
+    h4{
+        font-size: 25px;
+        
+        color: aliceblue;
+    }
+    
+}
+.tabb2{
+    border-radius: 15px;
+    border-collapse: collapse;
+}

@@ -1,0 +1,46 @@
+
+.first{
+    background-image: url('volun.jpg');
+    margin: 45px 80px;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 14px;
+    a{
+        float: right;
+        text-decoration: none;
+        color: rgb(235, 235, 235);
+        font-size: 25px;
+        font-weight: bold;
+        border-radius: 36px;
+        padding: 25px;
+        margin-right: 70px;
+        margin-bottom: 70px;
+        
+    }
+    h1{
+        font-size: 30px;
+        text-align: center;
+        color: aliceblue;
+        padding-top: 40px;
+        filter: drop-shadow(10px 10px 20px red);
+        
+        
+    }
+}
+.tab{
+    padding-left: 460px;
+    h2{
+       
+        font-size: 40px;
+    }
+   label{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+
+   }
+          
+}
+.h111{
+    text-align: center;
+}

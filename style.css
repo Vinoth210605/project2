@@ -1,0 +1,60 @@
+.first{
+    background-image: url('nature.jpg');
+    margin: 45px 80px;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 14px;
+    h1{
+        margin-left: 100px;
+        padding-top: 20px;
+        font-size: 35px;
+        padding-inline: block;
+        filter: drop-shadow(10px 10px 20px red);
+    }
+    a{
+        float: right;
+        margin-top: -86px;
+        padding: 35px;
+        text-decoration: none;
+        color: rgb(219, 8, 8);
+        font-size: 25px;
+        font-weight: bold;
+        filter: drop-shadow(10px 10px 20px red);
+        border-radius: 36px;
+    }
+}
+.second{h1{
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 100px;
+    color: #ffffff;}
+    p{
+        width: 600px;
+        color: #ffffff;
+        margin-left: 103px;
+    }
+    h2{
+        align-items: center;
+        font-size: 40px;
+        font-weight: bold;
+        background-color: black;
+        border-radius: 25px;
+        color: #ffffff;
+        width: 250px;
+    }
+    img{
+        
+        height: 150px;
+        width: 180px;
+    }
+
+}
+.third{
+    img{
+        height: 100px;
+    }
+}
+@media only screen and (width: 320px) {
+   
+}

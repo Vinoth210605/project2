@@ -1,0 +1,23 @@
+body{
+    background-image:url('nature.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.nat{
+    a{
+        padding: 45px;
+        font-size: 30px;
+        text-decoration: none;
+        color: green;
+        
+    }
+
+}
+.tab2{
+    
+    img{
+        width: 200px;
+        height: 200px;
+    }
+}
